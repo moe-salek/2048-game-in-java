@@ -13,6 +13,6 @@ Linux: make sure to make the jar file executable (```chmod +x file.jar```)
 
 ## ScreenShots:
 
-[2048](https://github.com/MohammadSalek/2048/blob/master/screenshot/s2048_1.png)
+[2048_1](https://github.com/MohammadSalek/2048/blob/master/screenshot/s2048_1.png)
 
-[2048](https://github.com/MohammadSalek/2048/blob/master/screenshot/s2048_2.png)
+[2048_2](https://github.com/MohammadSalek/2048/blob/master/screenshot/s2048_2.png)
