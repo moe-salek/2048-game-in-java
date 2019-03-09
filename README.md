@@ -13,6 +13,6 @@ Linux: make sure to make the jar file executable (```chmod +x file.jar```)
 
 ## Screenshots:
 
-[s2048_1](/screenshot/s2048_1.png)
+![s2048_1](/screenshot/s2048_1.png)
 
-[s2048_2](/screenshot/s2048_2.png)
+![s2048_2](/screenshot/s2048_2.png)
