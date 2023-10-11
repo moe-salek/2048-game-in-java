@@ -29,7 +29,7 @@ public class Main {
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
-		frame.setTitle("2048 - a super-original game by @m-salek");
+		frame.setTitle("2048 game by @MohammadSalek");
 		frame.add(myPanel, BorderLayout.CENTER);
 		frame.pack();
 		frame.setVisible(true);
