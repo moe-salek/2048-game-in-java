@@ -1,5 +1,6 @@
-# 2048 Game
-An original game - The famous 2048 game made by Java Swing and AWT.
+# 2048 Game in Java
+
+The famous 2048 game developed using Java Swing and AWT.
 
 ## Getting Started
 
